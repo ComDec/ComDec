@@ -8,23 +8,23 @@
     <rect x="123" y="0" width="46" height="3" fill="#2f6e67"/>
   </g>
   <text x="34" y="52" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.4" fill="#98492f">CONTRIBUTIONS</text>
-  <text x="799" y="52" text-anchor="end" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">2,317 in the last year · updated 2026-07-29</text>
+  <text x="799" y="52" text-anchor="end" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">2,317 in the last year · updated 2026-07-29</text>
   <line x1="34" y1="66" x2="799" y2="66" stroke="#d8ded9"/>
-  <text x="74" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">Aug</text>
-  <text x="144" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">Sep</text>
-  <text x="200" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">Oct</text>
-  <text x="256" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">Nov</text>
-  <text x="326" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">Dec</text>
-  <text x="382" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">Jan</text>
-  <text x="438" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">Feb</text>
-  <text x="494" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">Mar</text>
-  <text x="564" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">Apr</text>
-  <text x="620" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">May</text>
-  <text x="690" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">Jun</text>
-  <text x="746" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">Jul</text>
-  <text x="52" y="119" text-anchor="end" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#929a97">Mon</text>
-  <text x="52" y="147" text-anchor="end" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#929a97">Wed</text>
-  <text x="52" y="175" text-anchor="end" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#929a97">Fri</text>
+  <text x="74" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">Aug</text>
+  <text x="144" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">Sep</text>
+  <text x="200" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">Oct</text>
+  <text x="256" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">Nov</text>
+  <text x="326" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">Dec</text>
+  <text x="382" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">Jan</text>
+  <text x="438" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">Feb</text>
+  <text x="494" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">Mar</text>
+  <text x="564" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">Apr</text>
+  <text x="620" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">May</text>
+  <text x="690" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">Jun</text>
+  <text x="746" y="86" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">Jul</text>
+  <text x="52" y="119" text-anchor="end" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#6c7674">Mon</text>
+  <text x="52" y="147" text-anchor="end" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#6c7674">Wed</text>
+  <text x="52" y="175" text-anchor="end" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10" fill="#6c7674">Fri</text>
   <rect x="60" y="96" width="11" height="11" rx="2.5" fill="#d8ded9"><title>2025-07-27: 0</title></rect>
   <rect x="60" y="110" width="11" height="11" rx="2.5" fill="#d8ded9"><title>2025-07-28: 0</title></rect>
   <rect x="60" y="124" width="11" height="11" rx="2.5" fill="#d8ded9"><title>2025-07-29: 0</title></rect>
@@ -393,11 +393,11 @@
   <rect x="788" y="110" width="11" height="11" rx="2.5" fill="#c97a55"><title>2026-07-27: 14</title></rect>
   <rect x="788" y="124" width="11" height="11" rx="2.5" fill="#dba98e"><title>2026-07-28: 9</title></rect>
   <rect x="788" y="138" width="11" height="11" rx="2.5" fill="#dba98e"><title>2026-07-29: 4</title></rect>
-  <text x="668" y="218" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">Less</text>
+  <text x="668" y="218" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">Less</text>
   <rect x="702" y="209" width="11" height="11" rx="2.5" fill="#d8ded9"/>
   <rect x="715" y="209" width="11" height="11" rx="2.5" fill="#e6cfc3"/>
   <rect x="728" y="209" width="11" height="11" rx="2.5" fill="#dba98e"/>
   <rect x="741" y="209" width="11" height="11" rx="2.5" fill="#c97a55"/>
   <rect x="754" y="209" width="11" height="11" rx="2.5" fill="#98492f"/>
-  <text x="771" y="218" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#929a97">More</text>
+  <text x="771" y="218" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#6c7674">More</text>
 </svg>

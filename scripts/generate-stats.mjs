@@ -232,7 +232,7 @@ function card(stats, theme, updated) {
     c.accentStrong
   }">AT A GLANCE</text>
   <text x="${W - PAD}" y="${PAD + 18}" text-anchor="end" font-family="${SANS}" font-size="10.5" fill="${
-    c.faint
+    c.muted
   }">updated ${esc(updated)}</text>
   <line x1="${PAD}" y1="${PAD + 32}" x2="${W - PAD}" y2="${PAD + 32}" stroke="${c.line}"/>
   ${metricRow}
@@ -295,7 +295,7 @@ function calendarCard(stats, theme, updated) {
         lastMonth = m;
         if (!leadingStub && wi < weeks.length - 1) {
           monthLabels += `\n  <text x="${x}" y="${CAL_TOP - 10}" font-family="${SANS}" font-size="10.5" fill="${
-            c.faint
+            c.muted
           }">${MONTHS[m]}</text>`;
         }
       }
@@ -312,7 +312,7 @@ function calendarCard(stats, theme, updated) {
     .map(
       ([i, label]) =>
         `\n  <text x="${CAL_LEFT - 8}" y="${CAL_TOP + i * STEP + 9}" text-anchor="end" font-family="${SANS}" font-size="10" fill="${
-          c.faint
+          c.muted
         }">${label}</text>`
     )
     .join("");
@@ -339,12 +339,12 @@ function calendarCard(stats, theme, updated) {
     c.accentStrong
   }">CONTRIBUTIONS</text>
   <text x="${width - PAD}" y="${PAD + 18}" text-anchor="end" font-family="${SANS}" font-size="10.5" fill="${
-    c.faint
+    c.muted
   }">${stats.contributions.toLocaleString("en-US")} in the last year · updated ${esc(updated)}</text>
   <line x1="${PAD}" y1="${PAD + 32}" x2="${width - PAD}" y2="${PAD + 32}" stroke="${c.line}"/>${monthLabels}${dayLabels}${cells}
-  <text x="${legendX}" y="${legendY}" font-family="${SANS}" font-size="10.5" fill="${c.faint}">Less</text>${legendCells}
+  <text x="${legendX}" y="${legendY}" font-family="${SANS}" font-size="10.5" fill="${c.muted}">Less</text>${legendCells}
   <text x="${legendX + 34 + 5 * (CELL + 2) + 4}" y="${legendY}" font-family="${SANS}" font-size="10.5" fill="${
-    c.faint
+    c.muted
   }">More</text>
 </svg>
 `;
