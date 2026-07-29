@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="232" viewBox="0 0 880 232" role="img" aria-label="GitHub activity summary for ComDec">
+  <defs>
+    <clipPath id="cardClip"><rect x="0" y="0" width="880" height="232" rx="10"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="879" height="231" rx="10" fill="#151817" stroke="#323835"/>
+  <g clip-path="url(#cardClip)">
+    <rect x="0" y="0" width="120" height="3" fill="#df8b68"/>
+    <rect x="123" y="0" width="46" height="3" fill="#78b3aa"/>
+  </g>
+
+  <text x="34" y="52" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.4" fill="#f0a483">AT A GLANCE</text>
+  <text x="846" y="52" text-anchor="end" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#707873">updated 2026-07-29</text>
+  <line x1="34" y1="66" x2="846" y2="66" stroke="#323835"/>
+  
+    <text x="34" y="112" font-family="Instrument Serif, Iowan Old Style, Palatino, Georgia, serif" font-size="42" fill="#f0efe9">41</text>
+    <text x="34" y="134" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="0.9" fill="#929b96">STARS EARNED</text>
+    <text x="237" y="112" font-family="Instrument Serif, Iowan Old Style, Palatino, Georgia, serif" font-size="42" fill="#f0efe9">75</text>
+    <text x="237" y="134" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="0.9" fill="#929b96">PUBLIC REPOSITORIES</text>
+    <text x="440" y="112" font-family="Instrument Serif, Iowan Old Style, Palatino, Georgia, serif" font-size="42" fill="#f0efe9">2,317</text>
+    <text x="440" y="134" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="0.9" fill="#929b96">CONTRIBUTIONS (12 MO)</text>
+    <text x="643" y="112" font-family="Instrument Serif, Iowan Old Style, Palatino, Georgia, serif" font-size="42" fill="#f0efe9">24</text>
+    <text x="643" y="134" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="500" letter-spacing="0.9" fill="#929b96">FOLLOWERS</text>
+  <line x1="34" y1="150" x2="846" y2="150" stroke="#323835"/>
+  <rect x="34.00" y="168" width="295.72" height="9" rx="4.5" fill="#3572A5" opacity="0.9"/>
+    <rect x="331.72" y="168" width="208.36" height="9" rx="4.5" fill="#e34c26" opacity="0.9"/>
+    <rect x="542.08" y="168" width="149.19" height="9" rx="4.5" fill="#DA5B0B" opacity="0.9"/>
+    <rect x="693.27" y="168" width="95.46" height="9" rx="4.5" fill="#3178c6" opacity="0.9"/>
+    <rect x="790.72" y="168" width="18.09" height="9" rx="4.5" fill="#f1e05a" opacity="0.9"/>
+    <rect x="810.81" y="168" width="45.19" height="9" rx="4.5" fill="#df8b68" opacity="0.9"/>
+    <circle cx="38" cy="204" r="4" fill="#3572A5"/>
+    <text x="49" y="208" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#c4c8c2">Python 36.4%</text>
+    <circle cx="141.2" cy="204" r="4" fill="#e34c26"/>
+    <text x="152.2" y="208" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#c4c8c2">HTML 25.7%</text>
+    <circle cx="232.2" cy="204" r="4" fill="#DA5B0B"/>
+    <text x="243.2" y="208" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#c4c8c2">Jupyter Notebook 18.4%</text>
+    <circle cx="396.4" cy="204" r="4" fill="#3178c6"/>
+    <text x="407.4" y="208" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#c4c8c2">TypeScript 11.8%</text>
+    <circle cx="524" cy="204" r="4" fill="#f1e05a"/>
+    <text x="535" y="208" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#c4c8c2">JavaScript 2.2%</text>
+    <circle cx="645.5" cy="204" r="4" fill="#df8b68"/>
+    <text x="656.5" y="208" font-family="Plus Jakarta Sans, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#c4c8c2">Other 5.6%</text>
+</svg>
