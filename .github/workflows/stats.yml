@@ -16,7 +16,9 @@ permissions:
 
 concurrency:
   group: refresh-profile-cards
-  cancel-in-progress: true
+  # queue rather than cancel: this job commits, and a run killed mid-push is worse
+  # than a run that waits its turn
+  cancel-in-progress: false
 
 jobs:
   refresh:
@@ -41,7 +43,16 @@ jobs:
           git add assets/stats-*.svg assets/contributions-*.svg
           if git diff --staged --quiet; then
             echo "No change."
-          else
-            git commit -m "chore: refresh profile cards"
-            git push
+            exit 0
           fi
+          git commit -m "chore: refresh profile cards"
+          # another run (or a manual commit) may have landed since checkout
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "push rejected, rebasing and retrying ($attempt/3)"
+            git pull --rebase --autostash origin main
+          done
+          echo "::error::could not push refreshed cards after 3 attempts"
+          exit 1
