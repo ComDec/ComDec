@@ -52,10 +52,6 @@ ultimately, help cure disease and extend human lifespan.
 |:--|:--|
 | [**unirna_tf**](https://github.com/ComDec/unirna_tf) | Uni-RNA — the large-scale pre-trained model for RNA science. |
 | [**ChemGFN**](https://github.com/ComDec/ChemGFN) | Reward-distribution-matching RL: Rooted Absorbed Prefix Trajectory Balance (ICML 2026). |
-| [**Lego_for_Biological_AI**](https://github.com/ComDec/Lego_for_Biological_AI) | Reusable building blocks for AI + Science projects. |
-| [**ScienceEvals**](https://github.com/ComDec/ScienceEvals) | An evals harness for LLMs in scientific research. |
-| [**unirna-tools**](https://github.com/ComDec/unirna-tools) | A universal toolkit for RNA structure and function. |
-| [**ComDec.github.io**](https://github.com/ComDec/ComDec.github.io) | My academic homepage — [comdec.github.io](https://comdec.github.io). |
 
 ### Currently
 
